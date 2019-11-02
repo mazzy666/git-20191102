@@ -3,5 +3,10 @@ div{
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+}
+
+body{
+  font-size:35px;
+  color: red;
 
 }
